@@ -4,3 +4,8 @@ It creates an hidden folder where the commits will be stored.
 How can you use the staging area to make sure you have one commit per 
 logical change?
 Just by adding one file at a time with the add command.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+When you want to make personal changes in a group project or if the
+changes are just only tests.
