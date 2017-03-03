@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates an hidden folder where the commits will be stored.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+Just by adding one file at a time with the add command.
